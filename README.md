@@ -18,7 +18,7 @@ This is a web-based sliding puzzle game where players can enjoy the classic puzz
 
 ## Implementation
 
-A* search algorithm is implemented and the heuristic used is Manhattan distance. [More info here. (https://en.wikipedia.org/wiki/A*_search_algorithm#:~:text=A*%20is%20an%20informed%20search,shortest%20time%2C%20etc.)
+A* search algorithm is implemented and the heuristic used is Manhattan distance. [More info here. (https://en.wikipedia.org/wiki/A*_search_algorithm#:~:text=A*%20is%20an%20informed%20search,shortest%20time%2C%20etc.)]
 
 Used fast priority queue to increase the speed of solving.
 The algorithm can only solve sized 2 and 3 grids quickly. Above that, it requires more time and demands space and processing power
