@@ -22,3 +22,10 @@ A* search algorithm is implemented and the heuristic used is Manhattan distance.
 
 Used fast priority queue to increase the speed of solving.
 The algorithm can only solve sized 2 and 3 grids quickly. Above that, it requires more time and demands space and processing power
+
+# Screenshot
+
+![image](https://github.com/user-attachments/assets/ece14e39-926b-4d36-876e-94218cbc3b85)
+
+![image](https://github.com/user-attachments/assets/05fe3fd5-ed67-4d05-9cd2-32b910fb3b62)
+
